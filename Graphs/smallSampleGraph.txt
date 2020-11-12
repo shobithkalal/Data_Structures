@@ -1,0 +1,19 @@
+
+1 
+LincolnCenter MidtownWest 0
+1 TimesSquare 0
+2 3 0
+TimesSquare LincolnCenter 0
+TimesSquare CentralPark 0
+4 UnitedNations 0
+TimesSquare EmpireState 0
+TimesSquare MidtownWest 0
+UnitedNations CentralPark 0
+UnitedNations TimesSquare 0
+UnitedNations EmpireState 0
+MidtownWest LincolnCenter 0
+MidtownWest TimesSquare 0
+MidtownWest EmpireState 0
+EmpireState MidtownWest 0
+EmpireState TimesSquare 0
+EmpireState UnitedNations 0
